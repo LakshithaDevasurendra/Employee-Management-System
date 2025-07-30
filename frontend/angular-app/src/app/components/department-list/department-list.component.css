@@ -1,0 +1,8 @@
+/* src/app/components/department-list/department-list.component.css */
+.mat-card {
+  margin: 16px;
+}
+
+.mat-table {
+  width: 100%;
+}
